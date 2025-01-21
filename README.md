@@ -1,4 +1,3 @@
-# concatenated_fn_rust
 # Concatenate Strings in Rust
 
 A simple Rust program that demonstrates how to concatenate two string slices using the `push_str()` method. This project is beginner-friendly and focuses on understanding basic Rust concepts like string manipulation, ownership, and function calls.
