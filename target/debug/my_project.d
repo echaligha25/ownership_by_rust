@@ -1,0 +1,1 @@
+/Users/eliewahachaligha/Desktop/GratitudeAnalytics/Blockchain/Rust/ownership_rust/target/debug/my_project: /Users/eliewahachaligha/Desktop/GratitudeAnalytics/Blockchain/Rust/ownership_rust/src/main.rs
